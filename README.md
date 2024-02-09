@@ -1,6 +1,6 @@
 <!-- Title -->
 <h3 align="center">
-        <samp>&gt; Hello,  Internet! I am
+        <samp>&gt; Hello,  Internet! I'm
                 <b><a target="_blank" href=" https://github.com/kilocod3"> kilocod3
 </a></b>&lt;
         </samp>
@@ -11,9 +11,10 @@
         <!-- Intro -->
         <samp>
                 [ I'm a student  from <b>Russia</b> ]
+                <br>[
+                Now I'm focused on development and self-development ]
                 <br>
-                [Focused on development and self-development </b> ]
-                <br>
+                I'm aimed at:
                 <br>
         </samp>
         <!-- Technologies -->
@@ -35,8 +36,6 @@
     <p align="center">
         ( ͡° ͜ʖ ͡°)♡
         <br>
-        "Happy Pythoning🐍"
+        "Happy programming🖥️"
     </p>
 </samp>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kilocod3&theme=github_dark)
