@@ -36,6 +36,6 @@
     <p align="center">
         ¯\_(ツ)_/¯
         <br>
-        "Happy programming🖥️"
+        #No comment
     </p>
 </samp>
