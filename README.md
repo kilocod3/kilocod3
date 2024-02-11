@@ -14,7 +14,7 @@
                 <br>[
                 Now I'm focused on development and self-development ]
                 <br>
-                I'm aimed at:
+                I'm aimed to:
                 <br>
         </samp>
         <!-- Technologies -->
