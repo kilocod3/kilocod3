@@ -34,7 +34,7 @@
 <!-- Footer -->
 <samp>
     <p align="center">
-        ( ͡° ͜ʖ ͡°)♡
+        ¯\_(ツ)_/¯
         <br>
         "Happy programming🖥️"
     </p>
