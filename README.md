@@ -1,6 +1,6 @@
 <!-- Title -->
 <h3 align="center">
-        <samp>&gt; Hello,  Internet! I'm
+        <samp>&gt; Hello,  Internet! I am
                 <b><a target="_blank" href=" https://github.com/kilocod3"> kilocod3
 </a></b>&lt;
         </samp>
@@ -10,11 +10,10 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                [ I'm a student  from <b>Russia</b> ]
-                <br>[
-                Now I'm focused on development and self-development ]
+                &gt; Location - Russia 
+                <br>&gt; I am a student now
                 <br>
-                I'm aimed to:
+                &gt; I am aimed to:
                 <br>
         </samp>
         <!-- Technologies -->
@@ -36,6 +35,6 @@
     <p align="center">
         ¯\_(ツ)_/¯
         <br>
-        #No comment
+        #No comments
     </p>
 </samp>
