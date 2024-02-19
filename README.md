@@ -38,5 +38,5 @@
         #No comments
     </p>
 </samp>
-<p align="center"> <a href="https://www.codewars.com/users/kilocod3"> <img src="https://www.codewars.com/users/kilocod3/badges/micro"/> </a> </p>
+<p align="center"> <a href="https://www.codewars.com/users/kilocod3"> <img src="https://www.codewars.com/users/kilocod3/badges/small"/> </a> </p>
 <!-- Thanks shahriarshafin for the profile idea -->
